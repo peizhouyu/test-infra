@@ -45,7 +45,7 @@ periodics:
           memory: "9000Mi"
           cpu: 2000m
 
-- name: ci-kubernetes-e2e-kubeadm-kinder-1-29
+- name: ci-kubernetes-e2e-kubeadm-kinder-1-30
   cluster: k8s-infra-prow-build
   interval: 12h
   decorate: true
